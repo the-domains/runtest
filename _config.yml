@@ -4,13 +4,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5934479
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5300752
   brandStrength: 0.8237774
@@ -21,6 +20,7 @@ color:
     - '#B3222E'
     - '#5C81AC'
     - '#9A9276'
-  rhythmicContrast: 0.4688507
-layout_spectrum: 0.9772344
-name: RunTest
+  rhythmicContrast: 0.7310287
+typography_spectrum: 0.5934479
+layout_spectrum: 0.6281619
+name: Great1
