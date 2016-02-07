@@ -1,14 +1,26 @@
-layout_spectrum: 0.9414608
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5934479
 color:
   saturation: 0.5300752
-  brandStrength: 0.8990537
+  brandStrength: 0.8237774
   lightness: 0.8426423
-  rhythmicContrast: 0.4688507
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-typography_spectrum: 0.5934479
+    - '#3A2715'
+    - '#6E3842'
+    - '#B3222E'
+    - '#5C81AC'
+    - '#9A9276'
+  rhythmicContrast: 0.4688507
+layout_spectrum: 0.9772344
 name: RunTest
