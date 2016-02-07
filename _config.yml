@@ -1,0 +1,14 @@
+layout_spectrum: 0.9414608
+color:
+  saturation: 0.5300752
+  brandStrength: 0.8990537
+  lightness: 0.8426423
+  rhythmicContrast: 0.4688507
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.5934479
+name: RunTest
